@@ -46,7 +46,11 @@ cp .env.example .env
 ```
 
 ## Edit the .env File
-Open the .env file and fill in any required configuration values specific to your setup. You may need API keys or other credentials, depending on the project requirements.
+Open the .env file and fill in the necessary configuration values:
+Gemini API Key: You need to sign up for Gemini's API and get your own API key. Once you have it, add it to the .env file as follows:
+```bash
+VITE_GEMINI_API_KEY=your_api_key_here
+```
 
 ## Run the Project
 Once everything is set up, you can start the development server by running the following command:
