@@ -21,7 +21,7 @@ Make sure you have the following installed:
 
 Follow these steps to get the project up and running on your local machine:
 
-### 1. Clone the Repository
+### Clone the Repository
 
 First, clone the repository to your local machine:
 
